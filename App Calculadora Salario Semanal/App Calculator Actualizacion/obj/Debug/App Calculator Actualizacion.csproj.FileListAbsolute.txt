@@ -1,0 +1,10 @@
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\bin\Debug\App Calculator Actualizacion.exe.config
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\bin\Debug\App Calculator Actualizacion.exe
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\bin\Debug\App Calculator Actualizacion.pdb
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\obj\Debug\App Calculator Actualizacion.csproj.AssemblyReference.cache
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\obj\Debug\App_Calculator_Actualizacion.Form1.resources
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\obj\Debug\App_Calculator_Actualizacion.Properties.Resources.resources
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\obj\Debug\App Calculator Actualizacion.csproj.GenerateResource.cache
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\obj\Debug\App Calculator Actualizacion.csproj.CoreCompileInputs.cache
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\obj\Debug\App Calculator Actualizacion.exe
+C:\Users\MI EQUIPO\source\repos\App Calculator Actualizacion\App Calculator Actualizacion\obj\Debug\App Calculator Actualizacion.pdb
